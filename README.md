@@ -72,8 +72,6 @@ graph TB
     class CDOT dotClass
 ```
 
-![전체 구조 다이어그램](structure.png)
-
 ### 동시성 제어 메커니즘
 
 ```mermaid
@@ -110,8 +108,6 @@ graph LR
     
     style P fill:#ff0000,color:#ffffff
 ```
-
-![동시성 제어 흐름도](flow.png)
 
 ## 🔧 주요 컴포넌트
 
